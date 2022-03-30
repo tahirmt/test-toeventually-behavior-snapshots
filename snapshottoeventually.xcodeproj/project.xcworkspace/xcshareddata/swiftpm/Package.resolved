@@ -1,0 +1,52 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CwlCatchException",
+        "repositoryURL": "https://github.com/mattgallagher/CwlCatchException.git",
+        "state": {
+          "branch": null,
+          "revision": "35f9e770f54ce62dd8526470f14c6e137cef3eea",
+          "version": "2.1.1"
+        }
+      },
+      {
+        "package": "CwlPreconditionTesting",
+        "repositoryURL": "https://github.com/mattgallagher/CwlPreconditionTesting.git",
+        "state": {
+          "branch": null,
+          "revision": "c21f7bab5ca8eee0a9998bbd17ca1d0eb45d4688",
+          "version": "2.1.0"
+        }
+      },
+      {
+        "package": "Nimble-SnapshotTesting",
+        "repositoryURL": "https://github.com/tahirmt/Nimble-SnapshotTesting",
+        "state": {
+          "branch": "use-fork",
+          "revision": "642c1e791bd20b1cf864b67a4bba5433a30052a7",
+          "version": null
+        }
+      },
+      {
+        "package": "Quick",
+        "repositoryURL": "https://github.com/quick/quick.git",
+        "state": {
+          "branch": null,
+          "revision": "bd86ca0141e3cfb333546de5a11ede63f0c4a0e6",
+          "version": "4.0.0"
+        }
+      },
+      {
+        "package": "swift-snapshot-testing",
+        "repositoryURL": "https://github.com/krzysztofpawski/swift-snapshot-testing.git",
+        "state": {
+          "branch": "support_tests_iterations",
+          "revision": "922eee34f0374f51fca7a9d90ab8c13b0f4fb844",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
